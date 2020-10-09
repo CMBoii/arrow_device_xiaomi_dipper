@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_dipper.mk
+    $(LOCAL_DIR)/arrow_dipper.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_dipper-user \
-    lineage_dipper-userdebug \
-    lineage_dipper-eng
+    arrow_dipper-user \
+    arrow_dipper-userdebug \
+    arrow_dipper-eng
